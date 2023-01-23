@@ -10,8 +10,8 @@ OpenCore based EFI for Asus H81M-K
 ## Tested macOS Version
 
 - macOS Catalina 10.15.7
-- macOS BigSur 11.7.2
-- macOS Monterey 12.6.2
+- macOS BigSur 11.7.3
+- macOS Monterey 12.6.3
 
 
 ## System Configuration
