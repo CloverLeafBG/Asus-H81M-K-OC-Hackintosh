@@ -50,7 +50,7 @@ Macmini7,1
 - Intel xHCI Mode
 - Sata Mode: AHCI
 - iGPU Memory: 64MB (if using iGPU only)
-- Excuse Disable Bit
+- Execute Disable Bit
 - OS type: Windows 10 UEFI mode
 - Intel Virtualization
 
