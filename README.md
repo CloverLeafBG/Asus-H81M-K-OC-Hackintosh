@@ -98,5 +98,5 @@ Macmini7,1
 - MacOS Monterey will only boot with model Macmini7,1 !!! All other OS versions will boot normally with both Macmini7,1 or iMac15,1
 
 - Don't forget to generate your own SMBIOS with https://github.com/corpnewt/GenSMBIOS. 
-
+ 
 ## ENJOY!
